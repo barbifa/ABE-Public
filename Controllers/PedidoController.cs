@@ -14,8 +14,6 @@ namespace LivrariaApi.Controllers
     public class PedidosController : ControllerBase
     {
 
-        //criar pedido
-        //POST api/pedido/
         [HttpPost]
         public IActionResult PostAdicionarLivro (Pedido pedido)
         {
