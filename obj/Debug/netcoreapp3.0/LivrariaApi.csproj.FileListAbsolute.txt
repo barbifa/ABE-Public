@@ -35,3 +35,14 @@ C:\Users\Barbara\LivrariaApi\obj\Debug\netcoreapp3.0\LivrariaApi.RazorTargetAsse
 C:\Users\Barbara\LivrariaApi\obj\Debug\netcoreapp3.0\LivrariaApi.csproj.CopyComplete
 C:\Users\Barbara\LivrariaApi\obj\Debug\netcoreapp3.0\LivrariaApi.dll
 C:\Users\Barbara\LivrariaApi\obj\Debug\netcoreapp3.0\LivrariaApi.pdb
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Barbara\LivrariaApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Barbara\LivrariaApi\obj\Debug\netcoreapp3.0\LivrariaApi.MvcApplicationPartsAssemblyInfo.cs

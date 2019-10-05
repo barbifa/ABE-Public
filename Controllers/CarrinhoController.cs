@@ -11,7 +11,7 @@ namespace LivrariaApi.Controllers
 
     [Route("api/[controller]")]
     [ApiController]
-    public class CarrinhoController : ControllerBase
+    public class CarrinhosController : ControllerBase
     {
         public static List<Carrinho> carrinhos = new List<Carrinho>();
  
